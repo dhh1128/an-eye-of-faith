@@ -6,14 +6,9 @@ redirect_from:
   - /2021/06/19/thoughts-on-fathers-day
 ---
 
-
 <p>Elder Jeffrey R. Holland once observed:<br></p>
 
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>"Of the many magnificent purposes served in the life and ministry of the Lord Jesus Christ, one... aspect... often goes uncelebrated. His followers did not understand it fully at the time, and many in modern Christianity do not grasp it now, but the Savior Himself spoke of it repeatedly and emphatically. It is the grand truth that in all that Jesus came to say and do, including and especially in His atoning suffering and sacrifice, He was showing us who and what God our Eternal Father is like, how completely devoted He is to His children in every age and nation. In word and in deed Jesus was trying to reveal and make personal to us the true nature of His Father, our Father in Heaven."</p><cite>"<a href="https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=eng">The Grandeur of God</a>", Oct 2003</cite></blockquote>
-<!-- /wp:quote -->
-
+> Of the many magnificent purposes served in the life and ministry of the Lord Jesus Christ, one... aspect... often goes uncelebrated. His followers did not understand it fully at the time, and many in modern Christianity do not grasp it now, but the Savior Himself spoke of it repeatedly and emphatically. It is the grand truth that in all that Jesus came to say and do, including and especially in His atoning suffering and sacrifice, He was showing us who and what God our Eternal Father is like, how completely devoted He is to His children in every age and nation. In word and in deed Jesus was trying to reveal and make personal to us the true nature of His Father, our Father in Heaven."</p><cite>"<a href="https://www.churchofjesuschrist.org/study/general-conference/2003/10/the-grandeur-of-god?lang=eng">The Grandeur of God</a>", Oct 2003</cite>
 
 <p>Thus, Jesus expects us to take Him seriously when He says, "true worshippers shall worship the Father in spirit and in truth" (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/4.23?lang=eng&clang=eng#p21">John 4:23</a>), and when He prays to the Father: "This is life eternal, that they might know thee, the only true God." (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/17.3?lang=eng&clang=eng#p1">John 17:3</a>) And He hopes we will <em>long</em> for the blessing that He promised when He said, "If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him." (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/14.23?lang=eng&clang=eng#p22">John 14:23</a>)</p>
 

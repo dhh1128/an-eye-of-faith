@@ -1,9 +1,0 @@
----
-title: "You Matter To Him"
-date: 2014-05-01
-slug: you-matter-to-him
-redirect_from:
-  - /2014/05/01/you-matter-to-him
----
-
-<p>I find myself returning often to this wonderful quote from President Uchtdorf:</p><blockquote><p>[P]lease understand that what you see and experience now is not what forever will be. You will not feel loneliness, sorrow, pain, or discouragement forever. We have the faithful promise of God that He will neither forget nor forsake those who incline their hearts to Him. Have hope and faith in that promise. Learn to love your Heavenly Father and become His disciple in word and in deed. Be assured that if you but hold on, believe in Him, and remain faithful in keeping the commandments, one day you will experience for yourselves the promises revealed to the Apostle Paul: “Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.” Brothers and sisters, the most powerful Being in the universe is the Father of your spirit. He knows you. He loves you with a perfect love. God sees you not only as a mortal being on a small planet who lives for a brief season—He sees you as His child. He sees you as the being you are capable and designed to become. He wants you to know that you matter to Him.</p><p>--Dieter F. Uchtdorf, “<a href="https://churchofjesuschrist.org/ensign/print/2011/11/you-matter-to-him" target="_blank">You Matter to Him</a>”, Nov 2011 <em>Ensign</em></p></blockquote>

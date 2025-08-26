@@ -20,7 +20,8 @@ Similarly, members of the LDS church are taught that some aspects of the temple 
 It is important to understand that this standard does not just preclude discussing temple matters with the uninitiated &mdash; it also precludes discussing them with one’s spouse, closest friends, or church leaders, even if such people are thoroughly aware of the details of temple ordinances themselves. The temple experience is between you and God; no other parties get a seat at the table. It is simply none of their business.
 
 Describing temple matters as a “secret” conveys a certain amount of truth, but it fails to capture the essence. I think that’s why Mormons often fall back to the “sacred” versus “secret” distinction. There is no requirement to actively prevent others from learning information about the temple &mdash; only a commitment not to be personally responsible for cheapening it. LDS scholar Hugh Nibley put it this way:
-<blockquote>… The important thing is that I do not reveal these things; they must remain sacred to me. I must preserve a zone of sanctity which cannot be violated. … For my covenants are all between me and my Heavenly Father.”<sup>[<a href="#2">2</a>]</sup></blockquote>
+
+> … The important thing is that I do not reveal these things; they must remain sacred to me. I must preserve a zone of sanctity which cannot be violated. … For my covenants are all between me and my Heavenly Father.”<sup>[<a href="#2">2</a>]</sup>
 
 Consider the parallel with physical intimacy.
 

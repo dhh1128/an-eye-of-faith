@@ -2,7 +2,6 @@
 * [Sacred and Secret](sacred-and-secret)
 * [What I Believe](what-i-believe)
 * [Just Save the Relationship](just-save-the-relationship)
-* [You Matter to Him](you-matter-to-him)
 * [Thoughts on Women and the Priesthood](thoughts-on-women-and-the-priesthood)
 * [Ordinances Are Evidence of God's Love](ordinances-are-evidence-of-gods-love)
 * [To Please the Eye and to Gladden the Heart](to-please-the-eye-and-to-gladden-the-heart)
