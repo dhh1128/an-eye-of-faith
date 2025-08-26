@@ -1,7 +1,13 @@
-To do:
-
-- [ ] Edit _config.yml to provide title and descrip.
-- [ ] Consider adding additional files to include in _config.yml
-- [ ] Go to [Google Search Console](https://search.google.com/search-console) and make this site a verified web property by adding a custom &lt;meta&gt; tag in _layouts/default.html.
-- [ ] Consider adding a LICENSE file
-- [ ] Possibly, customize file patterns excluded from link scanner in .github/workflows/link-check.yml.
+[The Book of Mormon Is About Families](the-book-of-mormon-is-about-families)
+[Sacred and Secret](sacred-and-secret)
+[What I Believe](what-i-believe)
+[Just Save the Relationship](just-save-the-relationship)
+[You Matter to Him](you-matter-to-him)
+[Thoughts on Women and the Priesthood](thoughts-on-women-and-the-priesthood)
+[Ordinances Are Evidence of Gods Love](ordinances-are-evidence-of-gods-love)
+[To Please the Eye and to Gladden the Heart](to-please-the-eye-and-to-gladden-the-heart)
+[A Pat on the Head](a-pat-on-the-head)
+[God Evolution Systems and Eternity](god-evolution-systems-and-eternity)
+[Going Minimalist](going-minimalist)
+[On Snowballs Siblings and Saints](on-snowballs-siblings-and-saints)
+[Thoughts on Fathers Day](thoughts-on-fathers-day)
