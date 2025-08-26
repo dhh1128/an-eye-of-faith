@@ -12,12 +12,12 @@ This morning I was reading <a href="https://churchofjesuschrist.org/scriptures/d
 
 What I like about this is that God isn't utilitarian. He doesn't limit His concern to just those things that make life possible; instead, He cares about whether we have perfumed roses, or sunsets drenched in color, or cute puppies, or delicious peaches &mdash; just because they gladden the heart. Whether we have a glad heart is something He cares about very deeply.
 
-<img src="https://farm9.staticflickr.com/8020/7710421870_6d7ed44647_c.jpg" /> image credit: amira_a (Flickr)
+<img src="assets/sunset.jpg" /> image credit: kinezsu (WallpaperCave)
 
 This is the same idea that's conveyed by one of my favorite Primary songs, "<a href="https://churchofjesuschrist.org/music/library/childrens-songbook/my-heavenly-father-loves-me?lang=eng" target="_blank">My Heavenly Father Loves Me</a>." The lyrics are beautiful. Here's an excerpt:
-<div style="margin-left:2em;margin-bottom:2em;">He gave me my eyes, that I might see
-the color of butterfly wings.
-He gave me my ears that I might hear
+<div style="margin-left:2em;margin-bottom:2em;">He gave me my eyes, that I might see /
+the color of butterfly wings. /
+He gave me my ears that I might hear /
 the magical sounds of things.</div>
 This resonates for me. I can believe in a God who delights to share beauty &mdash; for no other reason than because it's uplifting and soul-satisfying. I am also reminded of a wonderful poem that my mother first shared with me:
 <div style="margin-left:2em;">"Pied Beauty", by Gerard Manley Hopkins</div>
