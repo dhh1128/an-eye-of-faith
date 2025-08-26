@@ -36,7 +36,7 @@ There was an unspoken corollary: although I was seeing the musical performance t
 
 Remember Elder Bednar's talk about brush strokes on a canvas producing a glorious painting &mdash; but only when viewed as a totality instead of as discrete items?
 
-<a href="https://youtu.be/VZljNTyemcU?t=651"><img src="assets/screen-shot-2018-12-07-at-4-02-11-pm.png" /></a>
+<a href="https://youtu.be/VZljNTyemcU?t=651"><img src="assets/sheaves.jpg" /></a>
 
 Scriptural descriptions of God include "the same from all eternity to all eternity", "eternal and unchanging", "the beginning and the end", and "the great I AM." He says "all things are present before me." I believe one meaning of such statements is that God relates to The System differently than we do. It is all comprehended as one great and beautiful whole for Him, and He is in and through all of it.
 

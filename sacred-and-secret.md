@@ -21,6 +21,7 @@ It is important to understand that this standard does not just preclude discussi
 
 Describing temple matters as a “secret” conveys a certain amount of truth, but it fails to capture the essence. I think that’s why Mormons often fall back to the “sacred” versus “secret” distinction. There is no requirement to actively prevent others from learning information about the temple &mdash; only a commitment not to be personally responsible for cheapening it. LDS scholar Hugh Nibley put it this way:
 <blockquote>… The important thing is that I do not reveal these things; they must remain sacred to me. I must preserve a zone of sanctity which cannot be violated. … For my covenants are all between me and my Heavenly Father.”<sup>[<a href="#2">2</a>]</sup></blockquote>
+
 Consider the parallel with physical intimacy.
 
 Some things can be said. In temple ordinances, we commit ourselves to obey God and to put Him first in our lives. We commit ourselves to absolute fidelity to our spouse. We commit ourselves to strive to do good, to be honest, to live by the scriptures, and to repent and rely on Jesus Christ to save us when our efforts are flawed (as they always are).
