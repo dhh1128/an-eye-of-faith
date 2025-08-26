@@ -1,6 +1,6 @@
 ---
 title: God, Evolution, Systems, and Eternity
-date: 2018/12/07
+date: 2018-12-07
 slug: god-evolution-systems-and-eternity
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ordinances Are Evidence of God's Love
-date: 2014/06/15
+date: 2014-06-15
 slug: ordinances-are-evidence-of-gods-love
 ---
 

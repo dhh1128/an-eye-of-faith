@@ -1,6 +1,6 @@
 ---
 title: The Book of Mormon is about families
-date: 2013/01/05
+date: 2013-01-05
 slug: the-book-of-mormon-is-about-families
 ---
 

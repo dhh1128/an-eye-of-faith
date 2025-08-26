@@ -1,6 +1,6 @@
 ---
 title: "Just save the relationship."
-date: 2014/02/18
+date: 2014-02-18
 slug: just-save-the-relationship
 ---
 

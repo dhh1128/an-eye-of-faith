@@ -1,6 +1,6 @@
 ---
 title: Thoughts on women and the priesthood
-date: 2013/04/30
+date: 2013-04-30
 slug: thoughts-on-women-and-the-priesthood
 ---
 

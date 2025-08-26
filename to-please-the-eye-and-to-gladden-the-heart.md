@@ -1,6 +1,6 @@
 ---
 title: to please the eye and to gladden the heart
-date: 2014/09/17
+date: 2014-09-17
 slug: to-please-the-eye-and-to-gladden-the-heart
 ---
 

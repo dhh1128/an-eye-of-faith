@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Father's Day
-date: 2021/06/19
+date: 2021-06-19
 slug: thoughts-on-fathers-day
 ---
 

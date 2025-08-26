@@ -1,6 +1,6 @@
 ---
 title: A Pat on the Head
-date: 2014/12/23
+date: 2014-12-23
 slug: a-pat-on-the-head
 ---
 

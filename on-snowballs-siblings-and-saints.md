@@ -1,6 +1,6 @@
 ---
 title: On Snowballs, Siblings, and Saints
-date: 2021/01/10
+date: 2021-01-10
 slug: on-snowballs-siblings-and-saints
 ---
 

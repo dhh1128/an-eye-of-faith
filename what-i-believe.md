@@ -1,6 +1,6 @@
 ---
 title: What I Believe
-date: 2014/08/30
+date: 2014-08-30
 slug: what-i-believe
 ---
 

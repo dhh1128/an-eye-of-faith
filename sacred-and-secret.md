@@ -1,6 +1,6 @@
 ---
 title: To Those Who Wonder About "Sacred" and "Secret"
-date: 2013/05/29
+date: 2013-05-29
 slug: sacred-and-secret
 ---
 

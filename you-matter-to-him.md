@@ -1,6 +1,6 @@
 ---
 title: "You Matter To Him"
-date: 2014/05/01
+date: 2014-05-01
 slug: you-matter-to-him
 ---
 
