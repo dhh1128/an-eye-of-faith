@@ -4,8 +4,20 @@ date: 2018-12-07
 slug: god-evolution-systems-and-eternity
 redirect_from:
   - /2018/12/07/god-evolution-systems-and-eternity
+comments:
+  - author: Nick Liechty
+    date: 2018-12-07 20:00:25
+    comment: |
+      Very well said, my friend! I have never considered God’s involvement quite that way before.
+  - author: Gloria Pratt
+    date: 2018-12-08 21:33:19
+    comment: |
+      Beautifully expressed. It stretches my mind.
+  - author: Anita
+    date: 2018-12-15 22:36:55
+    comment: |
+      You have given me a feast to ponder, my friend! Thank you for your fabulous thinking! Please share much more, Daniel. And I hope you and your family have a very Merry Christmas!
 ---
-
 <span style="font-weight:400;">In my discipline of software architecture, one buzzword that invites occasional discussion is </span><i><span style="font-weight:400;">system thinking</span></i><span style="font-weight:400;">. This is the notion that certain things can only be understood as a whole or gestalt, not as independent pieces. The whole is greater than the sum of the parts.</span>
 
 [caption id="attachment_115" align="alignnone" width="2412"]<img class="alignnone size-full wp-image-115" src="https://aneyeoffaith.wordpress.com/wp-content/uploads/2018/12/system.jpg" alt="system" width="2412" height="1300" /> <span style="color:#808080;"><em>(partial map of the internet, from The Opte Project, Wikimedia Commons; http://bit.ly/2PrfOte)</em></span>[/caption]
@@ -43,21 +55,3 @@ redirect_from:
 <span style="font-weight:400;">God is more patient, more loving, more involved, and more of a Craftsman than that. We might be tempted to wave a magic wand to create a fish; we think of time as a finite resource and genetic engineering as something done in weeks with million-dollar lab equipment. But God can build a fish the </span><i><span style="font-weight:400;">right</span></i><span style="font-weight:400;"> way. And so He does. The recipe says it takes several billion years of cook time? No problem. After all, the Master is not in a hurry, and fishes are vital. They are how he is going to feed 5000, and thence redeem a penitent slave trader, and bless Isabel and her mother. And they are going to feed a little girl in Bangladesh tomorrow. Are not the cell membrane in a tide pool a billion years ago, and the prompting to a missionary companion today, and a trillion trillion other details like unto them, really one continuous, ineffable, incomprehensible act of unutterable love and atonement?</span>
 
 <i><span style="font-weight:400;">Of course</span></i><span style="font-weight:400;"> we can't point to a smoking gun that proves an Intelligent Designer intervened. That's because He's not a limited interventionist. He's a </span><i><span style="font-weight:400;">participant</span></i><span style="font-weight:400;">, and His touch is so pervasive that it's woven into all of reality. We're like fish who can't see the water. But it is there. The Living Water is there.</span>
-
----
-
-Nick Liechty (2018-12-07 20:00:25)
-
-Very well said, my friend! I have never considered God’s involvement quite that way before.
-
----
-
-Gloria Pratt (2018-12-08 21:33:19)
-
-Beautifully expressed. It stretches my mind.
-
----
-
-Anita (2018-12-15 22:36:55)
-
-You have given me a feast to ponder, my friend! Thank you for your fabulous thinking! Please share much more, Daniel. And I hope you and your family have a very Merry Christmas!

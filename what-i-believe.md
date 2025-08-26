@@ -4,8 +4,25 @@ date: 2014-08-30
 slug: what-i-believe
 redirect_from:
   - /2014/08/30/what-i-believe
+comments:
+  - author: Ed Walters
+    date: 2014-09-10 15:57:30
+    comment: |
+      I really enjoyed reading this.  It has moved me to want to create something like this.  I believe it is important that my family and friends understand what I believe.
+  - author: Daniel Hardman
+    date: 2014-09-10 16:43:31
+    comment: |
+      Thanks, Ed. I hope you do make your own; it was a good experience for me to struggle to put my feelings into words.
+  - author: Brett Fox
+    date: 2014-09-15 03:33:54
+    comment: |
+      It was great to read your testimony Dan. Very approachable, insightful, and understanding from other perspectives. I hope you don't stop here, I hope you do discuss the gaps with unanswered questions (or unfinished answers). I believe that kind of dialogue leaves us vulnerable, but creates a passion for everyone... whether or not an answer can be found, that kind of soul searching is catching, and seems like a good thing. I am glad you went as involved as you did. Usually we just hear what someone believes, and rarely why someone believes what they do including doubt. It seems strange to me the very letter that most consider as proof that Jefferson wasn't Christian, to me, proves how Christian he was (He was teaching wisdom, not teaching his (nephew?) how to think) "Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear."
+       Very insightful, your train of thought was very fluid... felt like I was reading a good book. Thanks!
+  - author: Daniel Hardman
+    date: 2014-09-15 04:17:14
+    comment: |
+      Thanks for reading and commenting, Brett. That quote from Jefferson is really meaty. I agree with the sentiment--that God is not afraid of reason, but rather designs for us to feel after Him and use the reason He gave us to try to understand Him. We can't understand everything that He can, but that doesn't mean we should make no efforts.
 ---
-
 I have wanted for a long time to say something to my friends and loved ones about my religious worldview. I understand that many prefer to avoid such topics; I won’t be offended if you tune me out rather than continuing to read. But I hope you’ll give me a few minutes.
 <h3>Motivation<a name="motivation"></a></h3>
 My goal in sharing isn’t to debate, to convince, or to criticize. Rather, I want to put my beliefs on record because they matter to me. They are part of who I am, and you can’t truly know me without understanding how--or why--I feel about this topic. I also find that perspectives like mine, where faith is central, are caricaturized in public discourse. This might lead some to think that nobody rational would feel the way I do. I disagree. If people dislike or reject what I believe, that’s their privilege, of course--but I wish such disagreement could proceed from real understanding, rather than flawed assumptions. So many unfortunate outcomes start with the false premise that we understand another person without listening to them...
@@ -144,29 +161,3 @@ Having said that, I do think some choices about belief are better and truer than
 I could add hundreds of paragraphs itemizing more stuff in my worldview, but I think the broad sweep of it is apparent now, and I’ve gone on longer than I intended. Thank you for reading through to the end; that’s a tribute to you. :-)
 
 I hope you can sense my sincerity, and my desire to tell the most important truths I know, in the simplest and most straightforward way I can manage. I hope you can relate to some of my feelings. I would be thrilled if something here has kindled feelings in your heart, or has revived memories of your own past that overlap in some way with mine. But regardless, I appreciate your willingness and effort to understand, and I’d be pleased to hear about your beliefs in return, or to explore questions together.
-
----
-
-Ed Walters (2014-09-10 15:57:30)
-
-I really enjoyed reading this.  It has moved me to want to create something like this.  I believe it is important that my family and friends understand what I believe.
-
----
-
-Daniel Hardman (2014-09-10 16:43:31)
-
-Thanks, Ed. I hope you do make your own; it was a good experience for me to struggle to put my feelings into words.
-
----
-
-Brett Fox (2014-09-15 03:33:54)
-
-It was great to read your testimony Dan. Very approachable, insightful, and understanding from other perspectives. I hope you don't stop here, I hope you do discuss the gaps with unanswered questions (or unfinished answers). I believe that kind of dialogue leaves us vulnerable, but creates a passion for everyone... whether or not an answer can be found, that kind of soul searching is catching, and seems like a good thing. I am glad you went as involved as you did. Usually we just hear what someone believes, and rarely why someone believes what they do including doubt. It seems strange to me the very letter that most consider as proof that Jefferson wasn't Christian, to me, proves how Christian he was (He was teaching wisdom, not teaching his (nephew?) how to think) "Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear."
- Very insightful, your train of thought was very fluid... felt like I was reading a good book. Thanks!
-
----
-
-Daniel Hardman (2014-09-15 04:17:14)
-
-Thanks for reading and commenting, Brett. That quote from Jefferson is really meaty. I agree with the sentiment--that God is not afraid of reason, but rather designs for us to feel after Him and use the reason He gave us to try to understand Him. We can't understand everything that He can, but that doesn't mean we should make no efforts.
-
