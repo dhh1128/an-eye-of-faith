@@ -154,7 +154,7 @@ So: I’ve identified a few things that I know. You’ll notice that it’s not 
 
 *I believe in families*, with all their <a title="The Book of Mormon is about families" href="the-book-of-mormon-is-about-families">warts and heartaches</a>. I was blessed with a wonderful heritage, and I acknowledge my debt to forebearers. I believe that the <a href="https://churchofjesuschrist.org/topics/family-proclamation" target="lds">values articulated by the church with respect to families</a> are crucial to our happiness, although I am hoping for additional doctrine to clarify some of my questions.
 
-<img src="assets/family.jpg" /></a> Photo credit: Sylwia Hardman.
+<img src="assets/family.jpg" /> Photo credit: Sylwia Hardman.
 
 *I believe in life after death, and in a literal resurrection.* Each of us will one day receive a body that is free of all worldly flaws, not susceptible to disease or death. This puts a great comma at the end of life stories that look pretty bleak to us mortals. I am so glad. As I said earlier, I have a deep conviction about the divinity of Jesus, including His resurrection. <a href="https://churchofjesuschrist.org/general-conference/1976/04/hopeless-dawn-joyful-morning" target="lds">Believing that He can and will raise others as He raised Himself</a> is a corollary that I accept and repeat with awe.
 
