@@ -2,6 +2,8 @@
 title: to please the eye and to gladden the heart
 date: 2014-09-17
 slug: to-please-the-eye-and-to-gladden-the-heart
+redirect_from:
+  - /2014/09/17/to-please-the-eye-and-to-gladden-the-heart
 ---
 
 This morning I was reading <a href="https://www.lds.org/scriptures/dc-testament/dc/59.18-19?lang=eng#16" target="_blank">Doctrine & Covenants 59</a>, and I was struck by verses 18 and 19:

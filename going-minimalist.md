@@ -2,6 +2,8 @@
 title: Going Minimalist
 date: 2019-05-11
 slug: going-minimalist
+redirect_from:
+  - /2019/05/11/going-minimalist
 ---
 
 <span style="font-weight:400;">Recently I have been impressed with the worldview of the <a href="https://www.youtube.com/watch?v=vrzESek2B2E" target="_blank" rel="noopener">minimalism</a> or voluntary simplicity movement. This is a lifestyle that advocates stripping away cruft to the point that you retain just what's truly core to your heart and your life purposes. Minimalism's proponents are known for eliminating physical clutter or living in tiny houses, but the streamlining is broader, including how we fill our minds, our time, and our dinner plates.</span>

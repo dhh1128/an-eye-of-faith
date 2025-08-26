@@ -2,6 +2,8 @@
 title: God, Evolution, Systems, and Eternity
 date: 2018-12-07
 slug: god-evolution-systems-and-eternity
+redirect_from:
+  - /2018/12/07/god-evolution-systems-and-eternity
 ---
 
 <span style="font-weight:400;">In my discipline of software architecture, one buzzword that invites occasional discussion is </span><i><span style="font-weight:400;">system thinking</span></i><span style="font-weight:400;">. This is the notion that certain things can only be understood as a whole or gestalt, not as independent pieces. The whole is greater than the sum of the parts.</span>

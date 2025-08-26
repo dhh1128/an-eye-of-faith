@@ -2,6 +2,8 @@
 title: The Book of Mormon is about families
 date: 2013-01-05
 slug: the-book-of-mormon-is-about-families
+redirect_from:
+  - /2013/01/05/the-book-of-mormon-is-about-families
 ---
 
 It is no accident that <em>The Book of Mormon</em> begins with a story about a family. And folks, this is not a Mormon fairytale family, with neatly groomed children raptly clustered around joyful parents leading a Family Home Evening in a spotless living room, while choirs of angels provide background music.

@@ -2,6 +2,8 @@
 title: Thoughts on women and the priesthood
 date: 2013-04-30
 slug: thoughts-on-women-and-the-priesthood
+redirect_from:
+  - /2013/04/30/thoughts-on-women-and-the-priesthood
 ---
 
 April 2013

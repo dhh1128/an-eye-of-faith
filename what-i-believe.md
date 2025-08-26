@@ -2,6 +2,8 @@
 title: What I Believe
 date: 2014-08-30
 slug: what-i-believe
+redirect_from:
+  - /2014/08/30/what-i-believe
 ---
 
 I have wanted for a long time to say something to my friends and loved ones about my religious worldview. I understand that many prefer to avoid such topics; I won’t be offended if you tune me out rather than continuing to read. But I hope you’ll give me a few minutes.

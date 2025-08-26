@@ -2,6 +2,8 @@
 title: Thoughts on Father's Day
 date: 2021-06-19
 slug: thoughts-on-fathers-day
+redirect_from:
+  - /2021/06/19/thoughts-on-fathers-day
 ---
 
 

@@ -2,6 +2,8 @@
 title: To Those Who Wonder About "Sacred" and "Secret"
 date: 2013-05-29
 slug: sacred-and-secret
+redirect_from:
+  - /2013/05/29/sacred-and-secret
 ---
 
 <p style="text-align:right;">(previously published in <a href="http://www.ldsmag.com/article/1/12755"><em>Meridian Magazine</em></a>)</p>

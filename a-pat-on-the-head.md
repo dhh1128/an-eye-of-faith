@@ -2,6 +2,8 @@
 title: A Pat on the Head
 date: 2014-12-23
 slug: a-pat-on-the-head
+redirect_from:
+  - /2014/12/23/a-pat-on-the-head
 ---
 
 Today is the 209th anniversary of the birth of Joseph Smith, who founded the church I belong to.
