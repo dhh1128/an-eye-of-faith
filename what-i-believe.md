@@ -96,7 +96,7 @@ Importantly, I don’t think I’ve ever heard anybody wrestle with <em>why</em>
 
 I think it’s because the human mind is particularly analogous to, or congruent with, the natural order of the universe. Speaking of the idea that logic should be capable of explaining natural phenomena, Harvard philosophy professor Charles Sanders Peirce said:
 
-<blockquote>I hear you say, ‘This smacks too much of an anthropomorphic conception.’ I reply that every scientific explanation of a natural phenomenon is a hypothesis that there is something in nature to which the human reason is analogous; and that it really is so, all the successes of science in its applications to human convenience are witnesses. They proclaim that truth over the length and breadth of the modern world. (1.316)</blockquote>
+<p><blockquote>I hear you say, ‘This smacks too much of an anthropomorphic conception.’ I reply that every scientific explanation of a natural phenomenon is a hypothesis that there is something in nature to which the human reason is analogous; and that it really is so, all the successes of science in its applications to human convenience are witnesses. They proclaim that truth over the length and breadth of the modern world. (1.316)</blockquote></p>
 
 In other words, science is founded on the idea that the human mind is analogous to nature, and science progresses by revealing new ways that this is true. (By the way, this explains another profound question, which is why, in the scientific method, we should be so astonishingly good at forming a hypothesis. The scientific method calls for observation, a hypothesis to explain it, and experimentation to prove or disprove the hypothesis, but says nothing useful about how to form a hypothesis. That part of the process is pure magic, yet it works surprisingly well!)
 
@@ -104,7 +104,7 @@ In all of nature, why should the human mind, specifically, exhibit this congruen
 
 For me, an interesting answer is suggested by the Bible’s assertion that humanity was created in God’s image. If the universe manifests His handiwork, and we are in some limited sense like the Creator &mdash; more so than other creations &mdash; then it would make sense for mental models that demand less mental gymnastics from human beings to have greater predictive power, on the whole. The rightness of Occam’s Razor itself is thus suggested by theology &mdash; but I see no satisfying explanation otherwise. Again quoting Peirce:
 
-<blockquote>In the light of the success of science to my mind there is a degree of baseness in denying our birthright as children of god and shamefacedly slinking away from anthropomorphic conceptions of the universe." (ibid)</blockquote>
+<p><blockquote>In the light of the success of science to my mind there is a degree of baseness in denying our birthright as children of god and shamefacedly slinking away from anthropomorphic conceptions of the universe." (ibid)</blockquote></p>
 
 I don’t want to make too much of this. I’m not claiming this is any kind of proof of anything. I just think it’s worth pondering.
 
@@ -133,7 +133,7 @@ I don’t know everything about Joseph’s life and heart. I am familiar with mu
 
 The attitude of Mormons toward Joseph Smith is often misunderstood or misrepresented, so I want to be very clear about this particular topic: Joseph was a man. I don’t worship him. I have never prayed to him, and I find that idea as ludicrous and offensive as he would. I don’t capitalize pronouns that refer to him. I have no doubt that he made lots of mistakes; he said so himself. Weeks go by when I don’t think of him at all. Occasionally I sing hymns about him; always, the lyrics express gratitude that the work he did draws us more fully and fervently toward Christ. Joseph himself said it best:
 
-<blockquote>The fundamental principles of our religion are the testimony of the Apostles and Prophets, concerning Jesus Christ, that He died, was buried, and rose again the third day, and ascended into heaven; and all other things which pertain to our religion are only appendages to it.” (TPJS 121)</blockquote>
+<p><blockquote>The fundamental principles of our religion are the testimony of the Apostles and Prophets, concerning Jesus Christ, that He died, was buried, and rose again the third day, and ascended into heaven; and all other things which pertain to our religion are only appendages to it.” (TPJS 121)</blockquote></p>
 
 The church Joseph founded isn’t Joseph’s church, and he isn’t at the center of its doctrine; like all the other supporting details, Joseph is only an appendage to the core Topic-with-a-capital-T.
 
