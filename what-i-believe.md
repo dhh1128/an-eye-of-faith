@@ -168,8 +168,3 @@ Daniel Hardman (2014-09-15 04:17:14)
 
 Thanks for reading and commenting, Brett. That quote from Jefferson is really meaty. I agree with the sentiment--that God is not afraid of reason, but rather designs for us to feel after Him and use the reason He gave us to try to understand Him. We can't understand everything that He can, but that doesn't mean we should make no efforts.
 
----
-
-A Pat on the Head | An Eye of Faith (2014-12-23 15:08:56)
-
-[…] What I Believe […]

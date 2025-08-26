@@ -22,8 +22,3 @@ I find it so very encouraging that when the Lord put together a book about famil
 
  
 
----
-
-What I Believe | An Eye of Faith (2014-08-30 19:50:29)
-
-[…] The Book of Mormon is about families […]
