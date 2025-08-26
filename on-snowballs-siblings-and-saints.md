@@ -12,7 +12,7 @@ Years ago, I threw a snowball at my favorite seminary teacher. It was an act of 
 
 Unfortunately, I threw from far away; a lot of kinetic energy was involved. Plus I gave no warning, I packed the snow too much, and I was more accurate than I intended. My teacher's recoil, and her expression as she wiped the spray of ice from her face, still fill me with dismay.
 
-<figure><img src="assets/istock-525139781.jpg?w=1024" /></a><figcaption>(Not my teacher -- but a good approximation of the event.)</figcaption></figure>
+<figure><img src="assets/istock-525139781.jpg?w=1024" /><figcaption>(Not my teacher -- but a good approximation of the event.)</figcaption></figure>
 
 I startled and hurt this kind woman who'd been my friend. I gave her a scare about scratches to her eye, and I caused her some pain. Despite innocent intentions, I conveyed disrespect and earned her disappointment.
 
