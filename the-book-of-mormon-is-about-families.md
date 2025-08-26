@@ -8,7 +8,7 @@ redirect_from:
 
 It is no accident that <em>The Book of Mormon</em> begins with a story about a family. And folks, this is not a Mormon fairytale family, with neatly groomed children raptly clustered around joyful parents leading a Family Home Evening in a spotless living room, while choirs of angels provide background music.
 
-<figure><img class="" src="http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-subdues-rebellious-brothers-39641-gallery.jpg" alt="" width="327" height="447" /><figcaption>Nephi Subdues His Rebellious Brothers, by Arnold Friberg; 1 Nephi 17:15–55.</figcaption></figure>
+<figure><img src="http://media.ldscdn.org/images/media-library/gospel-art/book-of-mormon/nephi-subdues-rebellious-brothers-39641-gallery.jpg" /><figcaption>Nephi Subdues His Rebellious Brothers, by Arnold Friberg; 1 Nephi 17:15–55.</figcaption></figure>
 
 In the first few pages we read about pride and bitterness among siblings, a generation gap, broken-hearted parents, wayward and ungrateful children, a lonely single man, and a distant relative addicted to drink and consorting with evil friends in shadowy nightlife. Keep reading, and you’ll find verbal and physical abuse, arguments about money, sons in danger on deployment, depression, death of elderly parents, childbearing in near-starvation conditions, reluctant moves to unfamiliar places, lazy and dishonest husbands, several attempted murders, and a wild, immoral party. And we aren’t even out of 1st Nephi yet!
 
