@@ -8,7 +8,7 @@ Today is the 209th anniversary of the birth of Joseph Smith, who founded the chu
 
 Joseph has always been a controversial figure. Much has been said about him, both good and bad. Joseph predicted this, and with characteristic forthrightness, he admitted how amazing some of his claims must feel to others: "You don’t know me; you never knew my heart. No man knows my history. I cannot tell it: I shall never undertake it. I don’t blame any one for not believing my history. If I had not experienced what I have, I would not have believed it myself." (April 7, 1844; <em>History of the Church</em>, vol 6, about page 312)
 
-I said in <a title="What I Believe" href="https://aneyeoffaith.wordpress.com/2014/08/30/what-i-believe/">another post</a> that I knew Joseph's account about a vision was true--and that the book he translated is true as well.
+I said in <a title="What I Believe" href="what-i-believe">another post</a> that I knew Joseph's account about a vision was true--and that the book he translated is true as well.
 
 I stand by that.
 
