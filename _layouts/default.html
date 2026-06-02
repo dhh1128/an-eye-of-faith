@@ -25,6 +25,7 @@
 
       </header>
       <section>
+        {% if page.url != '/' %}<p class="not-printed back"><a href="{{ '/' | relative_url }}">&larr; back</a></p>{% endif %}
 
       {{ content }}
 
