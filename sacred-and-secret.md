@@ -6,7 +6,7 @@ redirect_from:
   - /2013/05/29/sacred-and-secret
 ---
 
-<p style="text-align:right;">(previously published in <a href="http://www.ldsmag.com/article/1/12755"><em>Meridian Magazine</em></a>)</p>
+<p class="text-right">(previously published in <a href="http://www.ldsmag.com/article/1/12755"><em>Meridian Magazine</em></a>)</p>
 During the 2012 presidential campaign, I ran across an online magazine article about LDS garments. The comment stream after the article was predictably busy. One thread raised the age-old question of whether the temple ceremony, garments, and related topics are “sacred” or “secret”. Latter-day saints prefer “sacred”; many outside the church consider this a disingenuous splitting-of-hairs. One commenter said something like, “Well, if you can’t talk about it, it’s by definition a secret.”
 
 I think I understand why someone would feel the way this commenter did. Although the distinction is familiar in LDS culture<sup>[<a href="#1">1</a>]</sup>, and is more than mere wordplay, it is not something that we explain very well.
