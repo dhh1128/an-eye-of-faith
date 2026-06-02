@@ -4,11 +4,28 @@ author:
   name: "Daniel Hardman"
   twitter: "dhh1128"
   email: "daniel.hardman@gmail.com"
+# Project site served from a subpath on github.io — every absolute reference
+# must go through relative_url/absolute_url so it picks up this prefix.
+baseurl: /an-eye-of-faith
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-redirect-from
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
+# Apply the local _layouts/default.html to every page. Production (GitHub Pages)
+# applies this implicitly; declaring it keeps local `jekyll build` faithful.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 include:
   - robots.txt
   - LICENSE
+# README is the GitHub repo landing page (CI badges, dev instructions), not a
+# published page; the public table of contents is index.md.
+exclude:
+  - README.md
+  - ROADMAP.md
+  - scripts
