@@ -1,3 +1,7 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+
 pytest.ini
 *.log
 .venv
