@@ -1,0 +1,15 @@
+# Resolve extensionless internal links (any slug, including short ones like a
+# 4-char essay name) to their .md source: append .md when the final path segment
+# has no dot. Segment-based, not length-based, so real assets (.jpg/.png) and
+# short slugs both resolve correctly.
+remap = ['^(file:.*/[^/.]+)$ $1.md']
+
+# Hosts that block automated checkers — a bot gets 401/403 even though the page
+# is live in a browser. Seeded from the old inline exclude list; extend as CI
+# surfaces more (Lychee isn't installed locally, so CI is the real validation).
+exclude = ['^https?://.*(doi\.org|genderit\.org|nyti\.ms)/']
+
+# A 429 means the host rate-limited the checker, not that the link is broken;
+# tolerate it. Lower concurrency to provoke it less.
+accept = ["200..=299", "429"]
+max_concurrency = 4
