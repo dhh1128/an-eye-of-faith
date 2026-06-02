@@ -4,10 +4,17 @@
 # short slugs both resolve correctly.
 remap = ['^(file:.*/[^/.]+)$ $1.md']
 
-# Hosts that block automated checkers — a bot gets 401/403 even though the page
-# is live in a browser. Seeded from the old inline exclude list; extend as CI
-# surfaces more (Lychee isn't installed locally, so CI is the real validation).
-exclude = ['^https?://.*(doi\.org|genderit\.org|nyti\.ms)/']
+# Hosts/URLs that block automated checkers — a bot gets 401/403/500 even though
+# the page is live in a browser. Lychee isn't installed locally, so this list is
+# grown from what the CI run actually flags.
+exclude = [
+  '^https?://.*(doi\.org|genderit\.org|nyti\.ms)/',
+  '^https?://(www\.)?medium\.com/',          # 403s bots; loads fine in a browser
+  '^https?://(www\.)?comeuntochrist\.org/',  # Cloudflare-style 403 to bots
+  # churchofjesuschrist.org serves most pages 200 to the checker; this one
+  # broadcast page returns a bot 500 while loading fine in a browser.
+  '^https?://(www\.)?churchofjesuschrist\.org/broadcasts/article/christmas-devotional/2018/12/four-gifts-that-jesus-christ-offers-to-you',
+]
 
 # A 429 means the host rate-limited the checker, not that the link is broken;
 # tolerate it. Lower concurrency to provoke it less.
